@@ -2,7 +2,7 @@
 
 ## Requirements
 
-1. TP Libs
+1. (TP Libs)[https://github.com/TitansProductions/tp_libs]
 
 # Installation
 
