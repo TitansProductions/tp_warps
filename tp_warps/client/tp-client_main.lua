@@ -26,12 +26,6 @@ AddEventHandler("tp_libs:isPlayerReady", function()
     TriggerServerEvent('tp_warps:addChatSuggestions')
 end)
 
-Citizen.CreateThread(function ()
-    
-    Wait(2000)
-    TriggerServerEvent('tp_warps:addChatSuggestions')
-end)
-
 -----------------------------------------------------------
 --[[ Events ]]--
 -----------------------------------------------------------
