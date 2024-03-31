@@ -1,8 +1,8 @@
 # Titans Productions Warps (Fast Travels)
 
-## Requirements
+# Requirements
 
-###[TP Libs](https://github.com/TitansProductions/tp_libs)
+[TP Libs](https://github.com/TitansProductions/tp_libs)
 
 # Installation
 
